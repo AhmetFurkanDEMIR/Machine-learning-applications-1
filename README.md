@@ -1,4 +1,4 @@
-#Makine Öğrenmesi Örneği
+# Makine Öğrenmesi Örneği
                                
 -1. Yöntem
 
